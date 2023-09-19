@@ -56,6 +56,7 @@ public class Hello {
 //    }
 
     isTrue = remainderOfAdded == 0.00; //! Same thing as above
+    // boolean isNoRemainder = (isTrue ==0) ? true : false;
 
     System.out.println(isTrue);
     if (!isTrue) {
